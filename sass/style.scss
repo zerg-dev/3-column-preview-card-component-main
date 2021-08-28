@@ -97,6 +97,9 @@ p {
 }
 
 @media (min-width: 820px) {
+	h2 {
+		font-size: 3rem;
+	}
 	.wrapper {
 		grid-template-rows: 1fr;
 		grid-template-columns: 1fr 1fr 1fr;

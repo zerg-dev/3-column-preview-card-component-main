@@ -108,6 +108,9 @@ p {
 }
 
 @media (min-width: 820px) {
+  h2 {
+    font-size: 3rem;
+  }
   .wrapper {
     -ms-grid-rows: 1fr;
         grid-template-rows: 1fr;
